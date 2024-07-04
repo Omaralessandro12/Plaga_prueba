@@ -9,7 +9,7 @@ model_path = 'weights/best.pt'
 
 # Setting page layout
 st.set_page_config(
-    page_title="Object Detection",  # Setting page title
+    page_title="Objectll Detection",  # Setting page title
     page_icon="🤖",     # Setting page icon
     layout="wide",      # Setting layout to wide
     initial_sidebar_state="expanded",    # Expanding sidebar by default
